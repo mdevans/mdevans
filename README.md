@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Michael Evans (@mdevans)
-- 👀 I’m interested in applying algorithms to Medical Imaging to assist diagnostics
+- 👀 I’m interested in applying algorithms to diagnostic medical devices
 - 🌱 I’m currently learning fast search and unsupervised learning techniques
 - 💞️ I’m looking to collaborate on AI for primary healthcare
 - 📫 How to reach me michael@dx.life
