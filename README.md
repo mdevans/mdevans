@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mdevans
+- 👋 Hi, I’m Michael Evans (@mdevans)
 - 👀 I’m interested in applying algorithms to Medical Imaging to assist diagnostics
 - 🌱 I’m currently learning fast search and unsupervised learning techniques
 - 💞️ I’m looking to collaborate on AI for primary healthcare
